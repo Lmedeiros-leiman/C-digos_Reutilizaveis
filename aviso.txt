@@ -1,0 +1,8 @@
+esta pasta contem arquivos que eu gosto de reutilizar em outros projetos.
+coisas simples como uma mascara para conectar ao banco de dados...
+
+fique a vontade de "roubar"/copiar o código aqui, mas fique atento ao fato
+de que foi feito por alguem de baixo nivel/junior. entao cuidado com o que usa.
+
+
+- Leo
